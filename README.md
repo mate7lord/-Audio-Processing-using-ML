@@ -7,3 +7,4 @@ In this project we will be understanding and extracting different features from 
 4. Fourier Transform and it's applications
 5. Extracting Frequency Domain Audio Features
 
+I have made an explanation in the ipynb file, thanks
