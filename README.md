@@ -1,4 +1,4 @@
-# -Audio-Processing-using-ML
+# Audio Processing using ML
 In this project we will be understanding and extracting different features from audio files which help us in performing ML operations on these audio files.
 # Time Line of the project :
 1. Importing libraties and audio file
